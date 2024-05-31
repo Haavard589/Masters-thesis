@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 31 09:58:17 2024
-
-@author: hfyhn
-"""
-
-# -*- coding: utf-8 -*-
 import os, subprocess
 
 import file_support
