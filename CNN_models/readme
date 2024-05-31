@@ -4,3 +4,4 @@ The CNN models that has a depth of 5 and 6 filters were too big to upload to Git
 segmentation_lr0.0005_depth3_filters5_main_model.pth is the model used for the preprocessing of the data for this thesis. 
 The other models were failed attepts to try to improve this model 
 
+segmentation_lr0.0005_depth3_filters5_mix3_model was not used in the thesis, but showed in future work.
